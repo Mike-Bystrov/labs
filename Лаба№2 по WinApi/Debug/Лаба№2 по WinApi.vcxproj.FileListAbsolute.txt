@@ -1,0 +1,4 @@
+D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Debug\Лаба№2 по WinApi.exe
+C:\Users\fpm.bystrov\source\repos\Лаба№2 по WinApi\Debug\Лаба№2 по WinApi.exe
+c:\Users\User\source\repos\Лаба№2 по WinApi\Debug\Лаба№2 по WinApi.exe
+c:\Users\User\source\repos\Лаба№2 по WinApi\Debug\Лаба№2 по WinApi.pdb

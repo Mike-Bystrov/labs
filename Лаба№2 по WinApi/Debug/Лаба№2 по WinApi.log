@@ -1,0 +1,7 @@
+﻿  Лаба№2 по WinApi.cpp
+D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Лаба№2 по WinApi.cpp(130,12): warning C4101: 'hbrush1': unreferenced local variable
+D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Лаба№2 по WinApi.cpp(131,7): warning C4101: 'hPen': unreferenced local variable
+D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Лаба№2 по WinApi.cpp(132,7): warning C4101: 'hPen1': unreferenced local variable
+D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Лаба№2 по WinApi.cpp(133,7): warning C4101: 'hPen_white': unreferenced local variable
+D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Лаба№2 по WinApi.cpp(129,12): warning C4101: 'hbrush': unreferenced local variable
+  Лаба№2 по WinApi.vcxproj -> D:\2 семестр Программирование\лабы, лабы\Лаба№2 по WinApi\Debug\Лаба№2 по WinApi.exe
